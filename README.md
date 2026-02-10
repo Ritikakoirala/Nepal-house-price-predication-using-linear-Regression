@@ -4,9 +4,6 @@
 This project performs **Linear Regression** on a housing/construction dataset to predict the `total_price` of houses. The dataset contains numeric and categorical features related to construction, location, and house specifications.
 
 The goal is to demonstrate **data preprocessing, exploratory data analysis (EDA), and predictive modeling** using Python and scikit-learn.
-
----
-
 ## Dataset
 - **Features**: `location`, `land_area_sqft`, `floors`, `bedrooms`, `bathrooms`, `windows`, `doors`, `cement_bags`, `rcc_structure`, `plumbing`, `electricity`, `land_cost`, `construction_cost`, `material_cost`
 - **Target**: `total_price`
