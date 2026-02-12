@@ -6,10 +6,8 @@ The goal is to demonstrate **data preprocessing, exploratory data analysis (EDA)
 ## Dataset
 - **Features**: `location`, `land_area_sqft`, `floors`, `bedrooms`, `bathrooms`, `windows`, `doors`, `cement_bags`, `rcc_structure`, `plumbing`, `electricity`, `land_cost`, `construction_cost`, `material_cost`
 - **Target**: `total_price`
-- **Number of rows**: [Add row count]
+- **Number of rows**
 - **Data types**: Mostly numeric, with `location` categorical
-
----
 
 ## Exploratory Data Analysis (EDA)
 - Checked for missing values: ✅ None
