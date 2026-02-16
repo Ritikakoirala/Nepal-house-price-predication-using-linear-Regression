@@ -16,8 +16,6 @@ The goal is to demonstrate **data preprocessing, exploratory data analysis (EDA)
 - Analyzed correlation among features (heatmap)
 - Observed that `total_price` strongly correlates with cost-related features (`land_cost`, `construction_cost`, `material_cost`)
 
----
-
 ## Preprocessing
 - Separated features (`X`) and target (`y`)
 - Encoded categorical columns
