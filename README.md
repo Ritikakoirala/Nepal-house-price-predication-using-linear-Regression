@@ -24,8 +24,6 @@ The goal is to demonstrate **data preprocessing, exploratory data analysis (EDA)
 - Split data into **train (80%)** and **test (20%)** sets using `train_test_split`
 - No scaling required for Linear Regression in this dataset
 
----
-
 ## Model
 - Model used: **Linear Regression**
 - Train R² Score: `1.0`
